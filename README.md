@@ -1,1 +1,29 @@
-# cl13-html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>はじめてのページ</title>
+</head>
+<body>
+  <div style="position: relative; width: 480px; height: 374px;">
+  <img src="./bg0.png" >
+<img src="./foo.gif" style="position: absolute; left: 400px; top: 220px;"alt="foo" width="60" height="45">
+<img src="./foo.gif" style="position: absolute; left: 440px; top: 240px;"alt="foo" width="60" height="45">
+<img src="./foo.gif" style="position: absolute; left: 480px; top: 260px;"alt="foo" width="60" height="45">
+<img src="./foo.gif" style="position: absolute; left: 520px; top: 300px;"alt="foo" width="60" height="45">
+
+<img src="./foo.gif" style="position: absolute; left: 560px; top: 200px;"alt="foo" width="60" height="45">
+  <img src="./bg1.png"  style="position: absolute; left: 0px; top: 0px;">
+
+  <div style="color: #C2255C;font-weight: bold;background-color: rgba(255,255,255,0.4);font-size: 26px;position: absolute; left: 20px; top: 20px;">
+  ぽかぽか陽気の眠たくなるような昼下がり
+  <br>
+  花畑では、虫達がのんびり飛んでいます
+  </div>
+  <img src="./butterfly.gif" style="position: absolute; left: 200px; top: 410px;"alt="蝶々" width="100" height="70">
+  <img src="./butterfly.gif" style="position: absolute; left: 420px; top: 380px;"alt="蝶々" width="100" height="70">
+  <img src="./butterfly.gif" style="position: absolute; left: 700px; top: 430px;"alt="蝶々" width="100" height="70">
+  
+  </div>
+</body>
+</html>
